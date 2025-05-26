@@ -1,0 +1,5 @@
+﻿  Mapowanie.cpp
+C:\Users\Pedzi\OneDrive\Pulpit\Mapowanie\Mapowanie\Mapowanie.cpp(28,26): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Pedzi\OneDrive\Pulpit\Mapowanie\Mapowanie\Mapowanie.cpp(83,10): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Pedzi\OneDrive\Pulpit\Mapowanie\Mapowanie\Mapowanie.cpp(155,13): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Mapowanie.vcxproj -> C:\Users\Pedzi\OneDrive\Pulpit\Mapowanie\x64\Debug\Mapowanie.exe
